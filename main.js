@@ -24,3 +24,10 @@ function hacerPregunta (){
 }
 
 hacerPregunta()
+hacerPregunta()
+hacerPregunta()
+hacerPregunta()
+hacerPregunta()
+hacerPregunta()
+hacerPregunta()
+hacerPregunta()
