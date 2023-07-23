@@ -14,13 +14,6 @@ function hacerPregunta (){
     } else {
         alert(`Es una buena elección.`)
     }
-    
-    if (condition) {
-        
-    } else {
-        
-    }
-
 }
 
 hacerPregunta()
